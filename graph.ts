@@ -1,5 +1,7 @@
-// Instantiate a new graph
-var Graph = function() {
+interface IGraph {
+
+}
+class Graph = function() {
   // create a variable called newGraph for a new instance and set to empty
   this.newGraph = {};
   // graph will have properties  at Graph.prototype

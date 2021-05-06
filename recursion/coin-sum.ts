@@ -1,3 +1,4 @@
+
 const makeChange = (total) => {
   const count = 0;
   const coins = [200, 200, 50, 20, 10, 5, 2, 1];
